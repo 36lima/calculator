@@ -3,6 +3,10 @@ def say(msg)
   puts "=> #{msg}"
 end
 
+def num_validator(num1)
+
+end
+
 say "What's the first number?"
 num1 = gets.chomp
 
